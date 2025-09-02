@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓Currently taking a Masters degree in Software development at Western Norway University of Applied Sciences, and the University of Bergen<br>😎Working as a Summer Intern at Kystverket<br>
+👨‍🎓Currently taking a Masters degree in Software development at Western Norway University of Applied Sciences, and the University of Bergen
 
 
 # 💻 Tech Stack:
