@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓Currently taking a Masters degree in Software development at Western Norway University of Applied Sciences, and the University of Bergen
+👨‍🎓Completed a Masters degree in Software development at Western Norway University of Applied Sciences, and the University of Bergen
 
 
 # 💻 Tech Stack:
